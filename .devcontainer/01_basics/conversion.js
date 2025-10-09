@@ -31,3 +31,7 @@ let num = 33
 let stringn = String(num)
 console.log(stringn)
 console.log(typeof stringn)
+
+console.log(true) //true
+console.log(+true) //1
+console.log(+"") //0
