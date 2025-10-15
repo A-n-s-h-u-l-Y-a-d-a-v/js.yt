@@ -1,6 +1,6 @@
 // console.log(2>1) //true
 // console.log(2<1) //false
-console.log("2" > 1)
+console.log("2" > 1)//true as it converts string to number and then compares
 console.log("02" > 1)
 
 console.log(null == 0) // equality operators do not convert null to 0
